@@ -3,10 +3,12 @@ This project aims to develop a deep learning model for detecting damage on cars.
 The model will be trained on a dataset of images of cars, which divided into damaged and whole cars.
 
 ## Requirements
-- Python 3.x
-- TensorFlow
-- OpenCV
-- Numpy
+- Python (3.8.13)
+- TensorFlow (2.10.0)
+- Scikit-learn (1.0.2)
+- KerasTuner (1.0.3)
+- Numpy (1.22.3)
+- OpenCV (4.5.5)
 
 ## Data
 The data for this project will be a collection of images of cars, which divided into whole and damaged samples.
