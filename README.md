@@ -18,6 +18,7 @@ The data splitted into a training set and a validation set.
 The model will be a Convolutional Neural Network (CNN) implemented in TensorFlow.
 The architecture of the network will be determined through experimentation and hyperparameter tuning.
 Also, we implemented Transfer Learning to get better results.
+Transfer Learning Models: VGG16 and DenseNet121
 
 ## Evaluation
 The performance of the model will be evaluated using metrics such as precision, recall, and F1 score. The model will be tested on a validation set of images that were not seen during training.
